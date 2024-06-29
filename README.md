@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Santiago</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h1 align="center">Hi, I'm Santiago 👾</h1>
+<h3 align="center">A passionate frontend developer from Argentina💙🤍💛🤍💙🇦🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiago235v902&label=Profile%20views&color=0e75b6&style=flat" alt="santiago235v902" /> </p>
 
