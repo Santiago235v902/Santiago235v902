@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Argentina
   <br>💙🤍💛🤍💙🇦🇷</h3>
 
+![image](https://github.com/Santiago235v902/Santiago235v902/assets/153400127/4adf78be-f54c-4502-a0f0-7f9d94b7e823)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiago235v902&label=Profile%20views&color=0e75b6&style=flat" alt="santiago235v902" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santiago235v902" alt="santiago235v902" /></a> </p>
